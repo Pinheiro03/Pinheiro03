@@ -1,7 +1,9 @@
 # Oi sou o Filipe Pinheiro
-- Atualmente estou Cursando Analise e Desenvolvimento de Sistemas
-- A procura de ingressar na area de programação
+- Atualmente estou Cursando Análise e Desenvolvimento de Sistemas
+- A procura de ingressar na área de programação
 - Estou aprendendo Javascript, React e irei aventurar no Python.
+- Espero começar a trabalhar com programação em breve!
+
 
 
 <div style="display: inline_block"><br>
